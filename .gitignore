@@ -1,0 +1,30 @@
+# Build artifacts
+*.o
+*.d
+a.out
+
+# Exercise binaries
+cpp00/ex00/megaphone
+cpp00/ex01/phonebook
+cpp01/ex00/zombie
+cpp01/ex01/zombie
+cpp01/ex02/brain
+cpp01/ex03/ex03
+cpp01/ex04/ex04
+cpp01/ex05/harl
+cpp02/ex00/fixed
+cpp02/ex01/fixed
+cpp02/ex02/fixed2
+cpp03/ex00/ClapTrap
+cpp03/ex01/ClapTrap
+cpp03/ex02/ex02
+cpp03/ex03/DiamondTrap
+cpp04/ex00/main
+cpp04/ex01/main
+cpp04/ex02/main
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
